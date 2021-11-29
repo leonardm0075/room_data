@@ -1,0 +1,3 @@
+[submodule "GrovePi"]
+	path = GrovePi
+	url = https://github.com/leonardm0075/GrovePi
