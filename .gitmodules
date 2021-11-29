@@ -1,3 +1,6 @@
 [submodule "GrovePi"]
 	path = GrovePi
 	url = https://github.com/leonardm0075/GrovePi
+[submodule "pywakeonlan"]
+	path = pywakeonlan
+	url = https://github.com/leonardm0075/pywakeonlan
